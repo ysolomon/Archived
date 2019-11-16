@@ -15,3 +15,6 @@ This repository is dedicated to keeping all old projects of any value up for vie
 
 **MemoryManager**
 - A basic Memory Manager in C++ compiled on a 32-bit Linux kernel. It used dynamic memory allocation to allocate increasingly larger blocks of memory to test system stress, (Tested up to 4Gb).
+
+**PhotoPhighter**
+- A mobile game developed in Unity 4, in the same spirit as an older Nintendo 3DS title called Photo Dojo. This project was an interesting  prototype, showing off some of the unique games that could be made using and experience gained using a Unity to interface a device's hardware. The folder holds only the .apk file so install it and give it a try.
