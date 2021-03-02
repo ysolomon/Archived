@@ -1,5 +1,5 @@
 # Archived Code Samples
-Some code samples in various languages
+Some code samples in various languages from my time at university
 
 **HeapManager_C**
 - Heap Manager that was written in C. Commented out some "quick" test cases putting the heap manager on display (Sample Standard Deviation)
